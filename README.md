@@ -13,10 +13,14 @@ editorial な立場でやっていること:
 
 ### 最近の記事
 
-- [ダイニングテーブルで在宅ワーク、肩がこるのは姿勢のせいではない｜70cmという高さの話](https://monoselect-lab.github.io/blog/dining-table-zaitaku-tsukue-takasugiru/)
-- [速度テストは速いのに、Web会議だけ固まる｜賃貸ワンルームのWi-Fiで先に疑う場所](https://monoselect-lab.github.io/blog/wanroom-wifi-web-kaigi-togireru/)
-- [「コンセントが足りない」は3つの別問題｜ワンルーム在宅デスクの電源を整理する](https://monoselect-lab.github.io/blog/wanroom-consent-tarinai-dengen-tap/)
-- [Web会議で顔が暗い問題は、照明かカメラかを切り分けてから買う](https://monoselect-lab.github.io/blog/web-kaigi-kao-ga-kurai-light-camera/)
+- [「工事不要」の食洗機に、工事が要ることがあります｜賃貸ワンルームで詰まるのは幅ではなく、排水の高さとアース](https://monoselect-lab.github.io/blog/chintai-wanroom-shokusenki-koji-fuyou/)
+- [「画面上500ルクス以下」が国の基準です。晴れた日の窓際は3,000ルクスあります｜賃貸ワンルームの西日対策](https://monoselect-lab.github.io/blog/wanroom-nishibi-gamen-mienai-hiyoke/)
+- [「カメラを目線の高さに」が、ワンルームだけ実行できない理由｜Web会議の見下ろし顔を、机を広げずに直す](https://monoselect-lab.github.io/blog/wanroom-web-kaigi-camera-mesen-takasa/)
+- [突っ張り棒は1本では効きません（賃貸ワンルームで、机のまわり1畳だけ先に固定する）](https://monoselect-lab.github.io/blog/chintai-wanroom-kagu-tento-tsuppari-stopper/)
+- [ダニは60℃で死にます。問題は、死んだあとに残るほうです｜干せないワンルームの布団と9月の鼻づまり](https://monoselect-lab.github.io/blog/wanroom-dani-shigai-hosenai-futon/)
+- [ブレーカーを落とすのは電子レンジ、止まるのはWeb会議（ワンルームの在宅ワークを守る順番）](https://monoselect-lab.github.io/blog/wanroom-breaker-ochiru-web-kaigi-ups/)
+
+記事は全29本。[記事一覧](https://monoselect-lab.github.io/blog) にまとまっています。
 
 サイトは [Astro](https://astro.build/) 製、GitHub Pages でホストしています。
 ソースは [monoselect-lab.github.io](https://github.com/monoselect-lab/monoselect-lab.github.io) に置いています。
