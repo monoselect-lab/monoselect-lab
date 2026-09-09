@@ -13,14 +13,14 @@ editorial な立場でやっていること:
 
 ### 最近の記事
 
+- [薄さ7.2cmか、細さ24.8cmか｜賃貸ワンルームのロボット掃除機は先に3か所を測る](https://monoselect-lab.github.io/blog/wanroom-robot-soujiki-kagu-shita-sukima/)
+- [加湿器の「適用畳数」は湿度60%を保つ前提の数字です｜賃貸ワンルームが狙うのは40%台](https://monoselect-lab.github.io/blog/wanroom-kashitsuki-tekiyou-jousuu-60percent/)
 - [網入りガラスに断熱シートは貼れません｜賃貸ワンルームの結露対策を9月のうちに決める](https://monoselect-lab.github.io/blog/chintai-amiiri-garasu-ketsuro-dannetsu/)
-- [生乾き臭で変えるべきは洗剤より水温｜洗濯機に入れられない「40〜50℃」をワンルームでどうつくるか](https://monoselect-lab.github.io/blog/wanroom-namagawaki-nioi-suion-40do/)
 - [27インチをやめても、机は1cmしか広くなりません｜奥行き45〜70cmで本当に変わるのは目までの距離](https://monoselect-lab.github.io/blog/wanroom-monitor-size-tsukue-okuyuki-shikyori/)
+- [生乾き臭で変えるべきは洗剤より水温｜洗濯機に入れられない「40〜50℃」をワンルームでどうつくるか](https://monoselect-lab.github.io/blog/wanroom-namagawaki-nioi-suion-40do/)
 - [カーテンレール干しは「重さ」では止まりません｜賃貸ワンルームで洗濯物を掛けられる支点は3つだけ](https://monoselect-lab.github.io/blog/wanroom-curtain-rail-heyaboshi-shiten/)
-- [排水口が洗濯機の真下にある賃貸の、かさ上げ台の高さ｜6cmで足りるか、10.5cmが要るか](https://monoselect-lab.github.io/blog/chintai-sentakuki-mashita-haisui-kasaage/)
-- [「工事不要」の食洗機に、工事が要ることがあります｜賃貸ワンルームで詰まるのは幅ではなく、排水の高さとアース](https://monoselect-lab.github.io/blog/chintai-wanroom-shokusenki-koji-fuyou/)
 
-記事は全34本。[記事一覧](https://monoselect-lab.github.io/blog) にまとまっています。
+記事は全36本。[記事一覧](https://monoselect-lab.github.io/blog) にまとまっています。
 
 サイトは [Astro](https://astro.build/) 製、GitHub Pages でホストしています。
 ソースは [monoselect-lab.github.io](https://github.com/monoselect-lab/monoselect-lab.github.io) に置いています。
